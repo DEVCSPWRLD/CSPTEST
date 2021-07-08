@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class wish {
 
 	@RequestMapping
-	public String wish() {
+	public String wish1() {
 		return "wish";
 		
 	}

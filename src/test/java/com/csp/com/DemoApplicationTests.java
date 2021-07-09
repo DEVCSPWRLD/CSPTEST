@@ -1,10 +1,10 @@
-package com.cen;
+package com.csp.com;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootWishApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
